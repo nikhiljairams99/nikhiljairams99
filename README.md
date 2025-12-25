@@ -85,8 +85,7 @@ A system-level application built using C++ to monitor endpoint activity and perf
 ## 📫 Connect With Me
 
 - **GitHub:** https://github.com/nikhiljairams99  
-- **LinkedIn:** *(add your LinkedIn here)*  
-- **Email:** *(add professional email here)*
+
 
 ---
 
