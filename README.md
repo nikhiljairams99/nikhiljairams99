@@ -2,8 +2,7 @@
 
 🚀 **Software Developer | ML & Agentic AI | Backend & Distributed Systems Enthusiast | Cloud-Native Engineer**
 
-I’m a passionate Software Developer with strong experience in building **scalable, high-performance backend systems** and **cloud-native applications**. I enjoy solving complex engineering problems, designing reliable systems, and writing clean, maintainable code that delivers real business value.
-
+Software engineering background with hands-on experience supporting IT audits, SOX 404 compliance, data analysis, and system reliability.
 ---
 
 ## 🧠 About Me
